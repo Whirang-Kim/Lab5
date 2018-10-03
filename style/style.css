@@ -1,22 +1,20 @@
 body{
-	background-image: url("space.jpg");
-	color: white;
-	background-repeat: no-repeat;
-	background-size:100%;
-	width:100%;
+        background-image: url("space.jpg");
+        color: white;
+        background-repeat: no-repeat;
+        background-size:100%;
+        width:100%;
 }
-
 h1{
-	font-family: 'Notable';
-	color: yellow;
-	font-size: 4.0em;
-	text-align: center;
+        font-family: 'Notable';
+        color: yellow;
+        font-size: 4.0em;
+        text-align: center;
 }
-
 h3{
-	font-family: 'Ubuntu';
-	font-size: 3.5em;
-	text-align: center;
+        font-family: 'Ubuntu';
+        font-size: 3.5em;
+        text-align: center;
 }
 
 .index{
